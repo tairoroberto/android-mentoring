@@ -21,9 +21,7 @@
 	- [Level 2](#level-2)
 	- [Level 3](#level-3)
 ## Roadmaps
-[Roadmap](roadmaps/fluxo_estudo_android_jr.drawio)
-
-Para visualizar os roadmaps acesse o [DRAW.IO](https://draw.io)  e importe para ele o arquivo *.drawio que deseja visualizar
+Arquivo [Roadmap](roadmaps/fluxo_estudo_android_jr.drawio) faça o download e acesse o [DRAW.IO](https://draw.io)  e importe para ele o arquivo *.drawio que deseja visualizar.
 
 ## Materiais
 
