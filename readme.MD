@@ -5,6 +5,7 @@
  - [Roadmaps](#Roadmaps)
  - [Materiais](#Materiais)
 	 - [Git](#git)
+	 - [Intellij](#intellij)
 	 - [Java](#java)
 	 - [Kotlin](#kotlin)
 	 - [Android Studio](#android-studio)
@@ -30,6 +31,8 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
  - [001 - GitHub | Guia Completo do Iniciante](https://www.youtube.com/watch?v=UbJLOn1PAKw)
  - [002 - Git Flow](https://www.youtube.com/watch?v=oweffeS8TRc)
 
+#### Intellij
+ [001 - IDE Intellij - Instalação](https://www.youtube.com/watch?v=rN_qUZJixKg)
 
 #### JAVA
 
@@ -96,8 +99,6 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
  [030 - Label, Break e Continue](https://www.youtube.com/watch?v=tQgsGyfTgwU&list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr&index=30)
 
  [031 - AutoBoxing](https://www.youtube.com/watch?v=xnR1FQsrRD0&list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr&index=31)
-
- [032 - IDE Intellij - Instalação](https://www.youtube.com/watch?v=rN_qUZJixKg)
 
  [034 - Orientação a Objetos OO](https://www.youtube.com/watch?v=wEviLDZMN3U&list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr&index=34)
 
