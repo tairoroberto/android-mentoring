@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Kotlin</string>
+    <string name="login_title">Faça seu Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/default_margin_24"
+        android:layout_marginTop="@dimen/default_margin_24"
+        android:layout_marginEnd="@dimen/default_margin_24"
+        android:gravity="center"
+        android:text="@string/login_title"
+        android:textColor="@color/purple_500"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/default_margin_24"
+        android:layout_marginTop="@dimen/default_margin_48"
+        android:layout_marginEnd="@dimen/default_margin_24"
+        android:hint="@string/email_hint"/>
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/default_margin_24"
+        android:layout_marginTop="@dimen/default_margin_8dp"
+        android:layout_marginEnd="@dimen/default_margin_24"
+        android:hint="@string/password_hint"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnLogin"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/default_margin_24"
+            android:layout_marginTop="@dimen/default_margin_48"
+            android:layout_marginEnd="@dimen/default_margin_24"
+            android:layout_marginBottom="@dimen/default_margin_48"
+            android:text="@string/login" />
+    </RelativeLayout>
+
+</LinearLayout>
