@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jrobe/workspace/android-mentoring/projects/HelloWorldKotlin/app/src/main/res/layout/activity_login.xml" value="0.152" />
         <entry key="..\:/Users/jrobe/workspace/android-mentoring/projects/HelloWorldKotlin/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_register.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/jrobe/workspace/android-mentoring/projects/HelloWorldKotlin/app/src/main/res/layout/activity_register.xml" value="0.17777777777777778" />
       </map>
     </option>
   </component>
