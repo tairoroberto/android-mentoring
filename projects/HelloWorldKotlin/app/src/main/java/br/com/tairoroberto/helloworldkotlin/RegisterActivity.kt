@@ -16,7 +16,6 @@ class RegisterActivity : AppCompatActivity() {
         binding.editTextEmail.setText(intent.getStringExtra("EMAIL"))
         binding.editTextPassword.setText(intent.getStringExtra("PASSWORD"))
 
-
         binding.btnRegister.setOnClickListener {
             Log.i("TAG", "Email: ${binding.editTextEmail.text} -> Password: ${binding.editTextPassword.text}")
         }
