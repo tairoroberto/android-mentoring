@@ -1,4 +1,4 @@
-package br.com.tairoroberto.helloworldkotlin
+package br.com.tairoroberto.helloworldkotlin.ui.register
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

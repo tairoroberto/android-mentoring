@@ -8,4 +8,7 @@
     <string name="register">Register</string>
     <string name="register_title">Faça seu Registro</string>
 
+    <string name="movies_fragment_text">Movies fragment</string>
+    <string name="movie_detail_text">Movie detail</string>
+
 </resources>

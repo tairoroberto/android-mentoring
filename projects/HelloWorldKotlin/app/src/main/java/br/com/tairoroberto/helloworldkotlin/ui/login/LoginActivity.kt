@@ -1,12 +1,14 @@
-package br.com.tairoroberto.helloworldkotlin
+package br.com.tairoroberto.helloworldkotlin.ui.login
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.EditText
-import android.widget.Toast
 import androidx.appcompat.widget.AppCompatButton
+import br.com.tairoroberto.helloworldkotlin.R
+import br.com.tairoroberto.helloworldkotlin.ui.home.HomeActivity
+import br.com.tairoroberto.helloworldkotlin.ui.register.RegisterActivity
 
 class LoginActivity : AppCompatActivity() {
 
@@ -26,7 +28,8 @@ class LoginActivity : AppCompatActivity() {
             val email = editTextEmail.text.toString()
             val password = editTextPassword.text.toString()
             if (email == "tairoroberto@gmail.com" && password == "12345678"){
-                Log.i("TAG", "Sucessoooooo")
+                startActivity(Intent(this, HomeActivity::class.java))
+                finish()
             }
         }
 
