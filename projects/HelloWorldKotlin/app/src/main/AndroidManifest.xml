@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloWorldKotlin">
         <activity
-            android:name=".ui.home.HomeActivity"
+            android:name="br.com.tairoroberto.helloworldkotlin.home.view.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.register.RegisterActivity"
+            android:name="br.com.tairoroberto.helloworldkotlin.register.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.login.LoginActivity"
+            android:name="br.com.tairoroberto.helloworldkotlin.login.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

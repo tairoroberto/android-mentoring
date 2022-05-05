@@ -1,4 +1,4 @@
-package br.com.tairoroberto.helloworldkotlin.ui.home
+package br.com.tairoroberto.helloworldkotlin.home.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

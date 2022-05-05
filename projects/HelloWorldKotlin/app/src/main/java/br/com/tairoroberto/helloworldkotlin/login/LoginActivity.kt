@@ -1,14 +1,13 @@
-package br.com.tairoroberto.helloworldkotlin.ui.login
+package br.com.tairoroberto.helloworldkotlin.login
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.EditText
 import androidx.appcompat.widget.AppCompatButton
 import br.com.tairoroberto.helloworldkotlin.R
-import br.com.tairoroberto.helloworldkotlin.ui.home.HomeActivity
-import br.com.tairoroberto.helloworldkotlin.ui.register.RegisterActivity
+import br.com.tairoroberto.helloworldkotlin.home.view.HomeActivity
+import br.com.tairoroberto.helloworldkotlin.register.RegisterActivity
 
 class LoginActivity : AppCompatActivity() {
 
