@@ -4,6 +4,7 @@
 
  - [Roadmaps](#Roadmaps)
  - [Materiais](#Materiais)
+	 - [Logica de Programação](#logica)
 	 - [Git](#git)
 	 - [Intellij](#intellij)
 	 - [Java](#java)
@@ -25,6 +26,9 @@
 Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse o [DRAW.IO](https://draw.io)  e importe para ele o arquivo *.drawio que deseja visualizar.
 
 ## Materiais
+
+#### LOGICA
+ - [Curso de logica de programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=1)
 
 #### GIT
 
