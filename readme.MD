@@ -1,4 +1,10 @@
-# Android Mentoring
+# Mentoria Mobile Android
+Fiz essa lista com a ordem do que acho mais importante no aprendizado Mobile Android.
+Portanto não pule passos, se está começando do ZERO, sem nenhum contato com desenvolvimento, começe pelo curso de [Logica de Programação](#logica) depois [Git](#git), seguindo para instalação do [Intellij](#intellij), e curso de [Java](#java), quando terminar o Java começe o curso de [Kotlin](#kotlin), depois aprenda a instalar o [Android Studio](#android-studio), em sequencia faça os [Cursos Udemy Android](#cursos-udemy), e por fim, mas não menos importante os videos do [Android no Youtube](#android-development). Esse é o básico, mas quando terminar tudo já saberá que precisa estudar mais e continuar sempre estudando.
+
+É muito importante que a cada aula se você não entendeu o conteúdo, volte e assista novamente o videos que ficou com dúvida, e pesquise sua dúvida no Google ou busque ajuda comigo ou outra pessoa.
+
+### NÃO EXISTE ATALHOS, SENTE A BUNDA NA CADEIRA E ESTUDE, TENHA PACIÊNCIA, E PERSISTÊNCIA, TUDO DARÁ CERTO :)
 
 ## Sumário
 
@@ -11,7 +17,7 @@
 	 - [Kotlin](#kotlin)
 	 - [Android Studio](#android-studio)
 	 - [Cursos Udemy Android](#cursos-udemy)
-	 - [Android Development Youtube](#android-development)
+	 - [Android no Youtube](#android-development)
 	 - [Requisições a API](#requisicoes-a-api)
 	 - [Lista de Apis Abertas](#lista-de-apis-abertas)
 
