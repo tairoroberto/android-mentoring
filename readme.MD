@@ -229,6 +229,7 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
  - [ Desenvolvimento Android Completo - Kotlin & Java - Jamiltom Damasceno](https://www.udemy.com/course/desenvolvimento-android-completo/learn/lecture/39303238?start=0#overview)
  - [ Receita Fácil - Jetpack Compose, Kotlin, Testes e muito mais - Daniel Lopes](https://www.udemy.com/course/receita-facil-app/learn/lecture/49832789?start=0#overview)
  - [ Domine o Kotlin Multiplataforma na Prática com Compose - Douglas Ramalho Motta](https://www.udemy.com/course/domine-o-kotlin-multiplataforma-na-pratica-com-compose/learn/lecture/51005527?start=0#overview)
+- [Desenvolvimento Android e IOS com Flutter - Jamiltom Damasceno](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/learn/lecture/14983912?start=0#overview)
 
 #### ANDROID DEVELOPMENT
  - [ Curso Android - Bruno Santos](https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40)
