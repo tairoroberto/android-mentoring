@@ -10,18 +10,11 @@
 	 - [Java](#java)
 	 - [Kotlin](#kotlin)
 	 - [Android Studio](#android-studio)
-	 - [Android Development](#android-development)
+	 - [Cursos Udemy Android](#cursos-udemy)
+	 - [Android Development Youtube](#android-development)
 	 - [Requisições a API](#requisicoes-a-api)
 	 - [Lista de Apis Abertas](#lista-de-apis-abertas)
-- [Libs Importantes](#libraries-importantes) 
-	- [Retrofit](#retrofit)
-	- [Gson](#gson)
-	- [Picasso](#picasso)
-	- [Glide](#glide)
-- [Desafios](#desafios)
-	- [Level 1](#level-1)
-	- [Level 2](#level-2)
-	- [Level 3](#level-3)
+
 ## Roadmaps
 Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse o [DRAW.IO](https://draw.io)  e importe para ele o arquivo *.drawio que deseja visualizar.
 
@@ -231,11 +224,17 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
 
  - [ 📹 Instalando e configurando o AS - Stack Mobile - Youtube - Free](https://www.youtube.com/watch?v=gweuhmJlhE0)
 
-#### ANDROID DEVELOPMENT
+#### CURSOS UDEMY
 
+ - [ Desenvolvimento Android Completo - Kotlin & Java - Jamiltom Damasceno](https://www.udemy.com/course/desenvolvimento-android-completo/learn/lecture/39303238?start=0#overview)
+ - [ Receita Fácil - Jetpack Compose, Kotlin, Testes e muito mais - Daniel Lopes](https://www.udemy.com/course/receita-facil-app/learn/lecture/49832789?start=0#overview)
+ - [ Domine o Kotlin Multiplataforma na Prática com Compose - Douglas Ramalho Motta](https://www.udemy.com/course/domine-o-kotlin-multiplataforma-na-pratica-com-compose/learn/lecture/51005527?start=0#overview)
+
+#### ANDROID DEVELOPMENT
+ - [ Curso Android - Bruno Santos](https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40)
  - [ 📹 Android Básico - Phillipp Lackner - Youtube - Free - Ingles](https://www.youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 
-#### REQUISIÇÕES A API
+#### ARTIGOS ANDROID
 
  - [ 🗒 Criando uma Pokedex com Android](https://medium.com/@jonatasleon/criando-uma-pokedex-com-android-dbc98939c2df)
  - [🌳 Repositório de Projeto - Pokedex](https://github.com/guilhermeberson/Pokedex-Android-Kotlin)
@@ -245,49 +244,8 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
  - [ 🗒 Consumindo API REST no Android com Retrofit em Kotlin — Parte 3](https://medium.com/collabcode/consumindo-api-rest-no-android-com-retrofit-em-kotlin-parte-3-c23adba08095)
  - [ 🗒 Consumindo API REST no Android com Retrofit em Kotlin — Parte 2](https://medium.com/collabcode/consumindo-api-rest-no-android-com-retrofit-em-kotlin-parte-4-c60683ff0ee8)
 
-#### Lista de Apis abertas
+#### LISTA DE APIS ABERTAS
 
  - [Public Apis](https://github.com/public-apis/public-apis)
 
-## Libraries Importantes
 
- ### Retofit
- **Retrofit** é uma das mais poderosas e populares bibliotecas de HTTP Client para Android e Java, produzida pela Square Inc. e lançada como open source para toda comunidade. [🔗 Fonte](https://imasters.com.br/android/retrofit-2-o-que-devemos-saber#:~:text=Retrofit%20%C3%A9%20uma%20das%20mais,open%20source%20para%20toda%20comunidade.)
-
- - [📄 Documentação ](https://square.github.io/retrofit/)
-
- 
- ### Gson
-**Gson** é uma biblioteca Java que pode ser usada para converter objetos Java em sua representação JSON. [🔗 Fonte](https://github.com/google/gson)
-
- - [📄 Documentação ](https://github.com/google/gson)
-
- 
- 
- ### Picasso
-   
-**Picasso** é uma das bibliotecas de  código aberto de download de imagens mais usadas no Android. É criado e mantido pela Square. [🔗 Fonte](https://www.geeksforgeeks.org/how-to-use-picasso-image-loader-library-in-android/)
-
- - [📄 Documentação ](https://square.github.io/picasso/)
-
-### Glide
-**Glide** é uma biblioteca de carregamento de imagens rápida e eficiente para Android focada em rolagem suave. O Glide oferece uma API fácil de usar, um pipeline de decodificação de recursos extensível e de alto desempenho e pool automático de recursos. [🔗 Fonte](https://bumptech.github.io/glide/)
-
- - [📄 Documentação ](https://bumptech.github.io/glide/)
-
-## Desafios
-
-Ao resolver o desafio, **recomenda-se** que clone este projeto e coloque o mesmo na pasta **challanges**, com o nome *levelx-nome-desafio-seu-nome* e faça um pull request, para que possamos avaliar e também para ajudar aoutras pessoas.
-
-### Level 1
-**Desafio de POO :** Crie um programa em Java ou Kotlin, que simule uma conta bancária, nesse desafio, você deve usar todos os conceitos aprendidos na linguagem, como herança, polimorfismo, metodos acessores dentre outros assuntos estudados.
-
-### Level 2
-**Desafio do Layout :**  Com o que aprendeu de desenvolvimento de Layouts em android, desenvolva um app que receba o Peso e Altura do usuário e calcule o IMC, mostrando em tela o resultado.
-
-### Level 3
-**Desafio da Pokedex :** Crie uma pokedex consumindo os dados da [PokeApi](https://pokeapi.co/), na primeira tela mostre a lista dos pokemons e ao clicar em qualquer um deles, deve-se mostrar em outra activity dados como: Nome, imagem e tipos.
-Para inspirar, temos um [exemplo](https://github.com/guilhermeberson/Pokedex-Android-Kotlin) que criei da uma pokedex, utilizando esta mesma Api, é só clonar e exacutar.
-
-**Desafio do Rick&Morty** Crie uma Wiki de Rick&Morty utilizando a [Api Rick&Morty](https://rickandmortyapi.com/documentation), assim como na pokedex, deve-se ter uma primeira activity listando os personagens e ao clicar em algum ir para uma activity com os dados do mesmo.
-Para inspirar, temos um [exemplo](https://github.com/guilhermeberson/Rickpedia-Android_Concepts) que criei de uma Rickpedia, utilizando esta mesma Api, só clonar e executar.
