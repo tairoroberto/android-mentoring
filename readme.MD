@@ -18,7 +18,7 @@ Portanto não pule passos, se está começando do ZERO, sem nenhum contato com d
 	 - [Android Studio](#android-studio)
 	 - [Cursos Udemy Android](#cursos-udemy)
 	 - [Android no Youtube](#android-development)
-         - [Banco de dados](#sql)
+         - [Banco de dados](#banco_de_dados)
          - [Design](#design)
 	 - [Artigos Android no Medium](#artigos_android)
 	 - [Lista de Apis Abertas](#lista-de-apis-abertas)
@@ -243,10 +243,10 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
  - [ Curso Android - Bruno Santos ](https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40)
  - [ 📹 Android Básico - Phillipp Lackner - Youtube - Free - Ingles ](https://www.youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 
-#### SQL
+#### Banco de dados
  - [ Curso SQL - Gustavo Guanabara ](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 
-#### DESIGN
+#### DESIGN (Figma)
 - [ Curso De Design Usando Figma - Doug Lazarini ](https://www.youtube.com/watch?v=-wMGaO283Cw&list=PL2b2uvKR5s-Hx3byi3qZY_HhPPw9U0e6x)
 
 #### ARTIGOS ANDROID
