@@ -18,8 +18,8 @@ Portanto não pule passos, se está começando do ZERO, sem nenhum contato com d
 	 - [Android Studio](#android-studio)
 	 - [Cursos Udemy Android](#cursos-udemy)
 	 - [Android no Youtube](#android-development)
-         - [Banco de dados SQL](#sql)
-         - [Design con Figma](#design)
+         - [Banco de dados](#sql)
+         - [Design](#design)
 	 - [Artigos Android no Medium](#artigos_android)
 	 - [Lista de Apis Abertas](#lista-de-apis-abertas)
 
