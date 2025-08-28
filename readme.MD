@@ -33,7 +33,7 @@ Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse 
 
 #### GIT
 
- - [001 - GitHub | Guia Completo do Iniciante](https://www.youtube.com/watch?v=UbJLOn1PAKw)
+ - [001 - GitHub | Guia Completo do Iniciante](https://www.youtube.com/watch?v=Kyw91mqCHD0)
  - [002 - Git Flow](https://www.youtube.com/watch?v=oweffeS8TRc)
 
 #### Intellij
